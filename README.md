@@ -23,9 +23,9 @@ representing approximately 7% of the papers processed so far. The collection is 
 
 Each entry consists of:
 
-- **TITLE** — the title of the original OPRD publication reporting the manufacturing route
-- **DOI** — the DOI of the original OPRD publication reporting the manufacturing route
-- **SMILES** — the target molecule in SMILES format
+- **TITLE** - the title of the original OPRD publication reporting the manufacturing route
+- **DOI** - the DOI of the original OPRD publication reporting the manufacturing route
+- **SMILES** - the target molecule in SMILES format
 
 The dataset contains only target structures and literature references.
 Synthetic routes are **not** included and can be retrieved from the cited publications.
