@@ -1,8 +1,8 @@
 OPRDbench: A Manufacturing Chemistry Benchmark for CASP Tools
 --------------------------------------------------------------------------------
 
-This repository contains a benchmark dataset of target molecules extracted from the
-`Organic Process Research & Development <https://pubs.acs.org/journal/oprdfk>`_ (OPRD) journal,
+This repository contains a benchmark dataset of target molecules extracted from the 
+Organic Process Research & Development (OPRD) journal,
 intended for the evaluation of Computer-Aided Synthesis Planning (CASP) tools on
 manufacturing-relevant chemistry.
 
@@ -18,7 +18,7 @@ evaluating and improving CASP tools in this domain.
 Dataset
 --------------------------------------------------------------------------------
 
-The dataset (``OPRDtargets.csv``) currently contains **364 target molecules** drawn from OPRD publications,
+The dataset ``OPRDtargets.csv`` currently contains **364 target molecules** drawn from OPRD publications,
 representing approximately 7% of the papers processed so far. The collection is being actively expanded.
 
 Each entry consists of:
@@ -27,9 +27,8 @@ Each entry consists of:
 - **DOI** — the DOI of the original OPRD publication reporting the manufacturing route
 - **SMILES** — the target molecule in SMILES format
 
-.. note::
-   The dataset contains only target structures and literature references.
-   Synthetic routes are **not** included and can be retrieved from the cited publications.
+The dataset contains only target structures and literature references.
+Synthetic routes are **not** included and can be retrieved from the cited publications.
 
 Usage
 --------------------------------------------------------------------------------
