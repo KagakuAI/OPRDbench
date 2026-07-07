@@ -18,8 +18,8 @@ evaluating and improving CASP tools in this domain.
 Dataset
 --------------------------------------------------------------------------------
 
-The dataset ``OPRDtargets.csv`` currently contains **364 target molecules** drawn from OPRD publications,
-representing approximately 7% of the papers processed so far. The collection is being actively expanded.
+The dataset ``OPRDtargets.csv`` currently contains **211 target molecules** drawn from OPRD publications,
+representing approximately 5% of the papers processed so far. The collection is being actively expanded.
 
 Each entry consists of:
 
