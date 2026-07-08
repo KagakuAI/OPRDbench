@@ -19,7 +19,7 @@ Dataset
 --------------------------------------------------------------------------------
 
 The dataset ``OPRDtargets.csv`` currently contains **211 target molecules** drawn from OPRD publications,
-representing approximately 5% of the papers processed so far. The collection is being actively expanded.
+representing approximately **5% of the papers processed** so far. The collection is being actively expanded.
 
 Each entry consists of:
 
